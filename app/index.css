@@ -1,0 +1,20 @@
+body {
+  background: #e4e4e4;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.languages {
+  padding-left: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.languages li {
+  margin: 10px;
+  cursor: pointer;
+}
