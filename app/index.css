@@ -65,12 +65,3 @@ ul {
   flex-direction: column;
   align-items: center;
 }
-
-.button {
-  background: red;
-  color: red;
-}
-
-.button:hover {
-  background: blue;
-}
