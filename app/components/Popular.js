@@ -57,7 +57,6 @@ RepoGrid.propTypes = {
 
 SelectLanguage.propTypes = {
   selectedLanguage: PropTypes.string.isRequired,
-  onSelect: PropTypes.func.isRequrired,
 }
 
 
